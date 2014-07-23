@@ -2,4 +2,4 @@
 var ngme = require('../');
 
 // Execute a method test
-ngme.method('test');
+ngme.example('test');

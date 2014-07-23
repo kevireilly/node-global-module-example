@@ -1,6 +1,6 @@
 {
   "name": "ngme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple Node.js Global Module Example (NGME)",
   "main": "index.js",
   "bin": {
