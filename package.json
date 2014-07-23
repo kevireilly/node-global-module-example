@@ -1,0 +1,24 @@
+{
+  "name": "ngme",
+  "version": "0.0.1",
+  "description": "A simple Node.js Global Module Example (NGME)",
+  "main": "index.js",
+  "bin": {
+    "ngme": "./bin/ngme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevireilly/node-global-module-example.git"
+  },
+  "keywords": [
+    "global",
+    "module",
+    "example"
+  ],
+  "author": "kevireilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevireilly/node-global-module-example/issues"
+  },
+  "homepage": "https://github.com/kevireilly/node-global-module-example"
+}
